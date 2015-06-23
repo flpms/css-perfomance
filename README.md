@@ -19,7 +19,7 @@ Vidro é um dos elementos mais lindo e requintado de nosso planeta, na minha opi
 Vítreo será usado também como testes para algumas coisas experimentais.
 
 
-> Uma escada rolante quando para de funcionar, continua sendo uma escada
+> Uma escada rolante quando para de funcionar, continua sendo uma escada <br/>
 >                                                     Autor Desconhecido
 
 Com o pensamento acima, garantimos que nenhuma funcionalidade será afetada por conta de experimentos. Sendo assim a estrutura dos branchs será a seguinte:
@@ -57,7 +57,7 @@ Glass is one the most beautiful and exquisite elements in our planet, for me. Gl
 
 Vítreo will be used for tests in experimental features.
 
-> Escalator when broken, will be a starway. (may be to heaven, I could resist that, only works in english)
+> Escalator when broken, will be a starway. (may be to heaven, I could resist that, only works in english)<br />
 >                                  Unknown Author, but the horrible joke is mine.
 
 With the bloquote above, we ensure experiments don't afected features. Branch will be structed like the sequence:
@@ -94,7 +94,7 @@ Vidrio es uno de los mas hermoso y exquisito elementos en nuestro planeta, for m
 
 Usaremos Vítreo para testes y experimentos
 
-> Una escalera mecanica todavia es una escalera quando no funciona
+> Una escalera mecanica todavia es una escalera quando no funciona <br />
 >                                               Autor desconocido
 
 Con lo pensamiento arriba, nostros garantizamos que los experimentos no afetaram las funcionalidades. La estructura de rama será como lo seguiente:
