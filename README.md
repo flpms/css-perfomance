@@ -1,4 +1,4 @@
-[I don't speak Portugues yet](#english) 
+[I don't speak Portuguese yet](#english) 
 
 [Todavia yo no hablo portugues.](#spanish)
 
@@ -17,7 +17,6 @@ Vidro é um dos elementos mais lindo e requintado de nosso planeta, na minha opi
 ### Experimentos e navegadores suportados
 
 Vítreo será usado também como testes para algumas coisas experimentais.
-
 
 > Uma escada rolante quando para de funcionar, continua sendo uma escada <br/>
 >                                                     Autor Desconhecido
