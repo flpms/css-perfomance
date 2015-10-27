@@ -1,0 +1,9 @@
+/* We don't need reset styles for typefaces */
+
+h1, h2, h3, h4, h5, h6 { font-size: 100%; }
+h1 { font: normal normal normal normal 4.23rem/2.61rem sans-serif; }
+h2 { font: normal normal normal normal 2.61rem/1.618rem sans-serif; }
+h3 { font: normal normal normal normal 1.618rem/0.99rem sans-serif; }
+h4 { font: normal normal normal normal 0.99rem/0.618rem sans-serif; }
+h5 { font: normal normal normal normal 0.99rem/0.618rem sans-serif; }
+h6 { font: normal normal normal normal 0.99rem/0.618rem sans-serif; }
